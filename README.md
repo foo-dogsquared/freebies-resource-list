@@ -3,8 +3,10 @@ This is a copy from the original post at my site (https://foo-dogsquared.github.
 
 ## Other Resource Lists
 - [awesome](https://github.com/sindresorhus/awesome) — **(very much recommended)**; it's a curated list of lists; I guess you can say it's **awesome**, mwehehehehehehehe... 😎
+- [A Compilation of Useful, Free, Online Math Resources from /r/math](https://www.reddit.com/r/math/comments/2mkmk0/a_compilation_of_useful_free_online_math_resources/)
+- [List of websites, ebooks, downloads, etc. for mobile users and people too lazy to read the sidebar from /r/learnmath](https://www.reddit.com/r/learnmath/comments/8p922p/list_of_websites_ebooks_downloads_etc_for_mobile/)
 - [This list on Medium](https://medium.com/free-stuff/500-free-things-on-the-internet-to-start-your-new-year-11ae72266b66)
-- [This list on Reddit](https://www.reddit.com/r/BestofSoftwares/comments/6084vh/list_of_the_best_free_things_online_everyone_can/)
+- [List of the best free things online everyone can take advantage of on /r/BestOfSoftwares](https://www.reddit.com/r/BestofSoftwares/comments/6084vh/list_of_the_best_free_things_online_everyone_can/)
 - [This specialized list for programming on Reddit](https://www.reddit.com/r/learnprogramming/wiki/tools)
 - [Useful websites for programmers (by *sdmg15* on GitHub)](https://github.com/sdmg15/Best-websites-a-programmer-should-visit/) — also here's [an mirror article by *Sahil Rajput* on dev.to](https://dev.to/sahilrajput/useful-websites-for-programmers-36k#coding-practice-for-beginners)
 - [Web Dev't Study Resources (by *dargaCode* on GitHub)](https://github.com/dargaCode/WebDevStudyResources)
@@ -53,12 +55,15 @@ This is a copy from the original post at my site (https://foo-dogsquared.github.
 - [Free Programming Books](https://github.com/EbookFoundation/free-programming-books) — **(recommended)**; a GitHub repo by the E-Book Foundation
 - [Free Science Books](https://github.com/EbookFoundation/free-science-books) — another GitHub repo by the E-Book Foundation
 - [Green Tea Press](https://greenteapress.com/wp/) — free computer science-related ebooks
+- [Math Wiki](https://math.wikia.com/wiki/Math_Wiki) — well, it is structured like a textbook and it is said that the Math Wiki is a textbook so there's that
 - [Notes for Professionals](http://book.goalkicker.com/) — **(very much recommended)**; made by folks at Stack Overflow from the Stack Overflow documentation for variety of languages and despite the title, it is quite helpful for beginners like me, as well; also, it is frequently updated like once per week
 - [OpenStax](https://openstax.org/) — **(very much recommended in sciences)**; a library of open-licensed expert-curated college textbook and resources
 - [OpenStax CNX](https://cnx.org/) — a database of open educational resources
 - [Open Textbook Library](https://open.umn.edu/opentextbooks) — **(recommended)**; same as OpenStax
 - [Open SUNY Textbooks](https://textbooks.opensuny.org/)
 - [Structure and Interpretation of Computer Programs, 2nd Edition (HTML version)](https://sarabander.github.io/sicp/) — unofficial (and prettier) version of [one of MIT's famous programming book (that can also be found online)](https://mitpress.mit.edu/sites/default/files/sicp/index.html)
+- [The Feynman's Lectures on Physics](http://www.feynmanlectures.caltech.edu/)
+- [WikiToLearn](https://www.wikitolearn.org/)
 
 ## Katas (Practice Sites)
 - [/r/dailyprogrammer](https://old.reddit.com/r/dailyprogrammer/)
@@ -124,6 +129,7 @@ stuff and I really like psychological stuff so that's why it's here
 - [JavaScript Weekly](https://javascriptweekly.com/)
 - [Node Weekly](http://nodeweekly.com/)
 - [Official Node.js Weekly Newsletter](https://newsletter.nodejs.org/)
+- [Postanly](https://postanly.ongoodbits.com/) — a weekly digest of productivity life articles
 
 ## YouTube Channel
 - [Crash Course](https://www.youtube.com/user/crashcourse/) — **(recommended)**; a YouTube channel that specializes in introducing you to a lot of concepts and subjects such as computers, sciences, and computer science
@@ -203,7 +209,7 @@ stuff and I really like psychological stuff so that's why it's here
 - [Microsoft Azure — Free Tier](https://azure.microsoft.com/en-us/free/)
 - [Netlify](http://netlify.com/) — **(recommended)**; their free options is pretty much amazing
 
-## Resources
+## Stock Resources
 - ### Images
     - [Pexels](https://www.pexels.com/)
     - [Pixabay](https://www.pixabay.com/)
@@ -230,15 +236,18 @@ stuff and I really like psychological stuff so that's why it's here
 - [Microsoft Student Pack](https://www.microsoft.com/en-us/education/students)
 
 ## Miscellaneous
-- [Archive](https://archive.org/) — it's an archive site for everything, it seems; you can find a lot of stuff in there
 - [A Pragmatic Quick Reference](https://blog.codinghorror.com/a-pragmatic-quick-reference/) — it's a collection of wisdoms put together in a list from the Coding Horror
+- [Archive](https://archive.org/) — it's an archive site for everything, it seems; you can find a lot of stuff in there
 - [Class Central](https://www.class-central.com/) — a search engine for courses at different MOOC sites
+- [Developer Roadmap (by kamranahmedse)](https://github.com/kamranahmedse/developer-roadmap) — **(very much recommended)**; your reference in case you want to choose a specific role in software development (mine is more on the back-end development)
 - [DevTube](https://dev.tube) — YouTube for developers
 - [Distrowatch](https://distrowatch.com/) — **(recommended, if you're into Linux)**; website watching for updates around Linux distros
-- [Developer Roadmap (by kamranahmedse)](https://github.com/kamranahmedse/developer-roadmap) — **(very much recommended)**; your reference in case you want to choose a specific role in software development (mine is more on the back-end development)
+- [Keep A Changelog](https://keepachangelog.com/en/1.0.0/)
 - [keyvalues](https://www.keyvalues.com/) — it's a engineering job finder
-- [Local Hackday MLH (Major League Hacking)](https://localhackday.mlh.io/) — it's a global hackathon (that are related to MLH) finder  
+- [Local Hackday MLH (Major League Hacking)](https://localhackday.mlh.io/) — it's a global hackathon (that are related to MLH) finder 
 - [MOOC List](https://www.mooc-list.com/) — similar to Class Central
+- [Open Culture](http://www.openculture.com/) — a site that provides open content and resources
+- [Open Educational Resources](https://www.oercommons.org/) — self-explanatory as to what their content is about
 
 **\*** - *if you're on a Windows OS, probably you're locked out of the option to download the ISO
 directly, to download it directly, you have to change the user profile from your browser
