@@ -11,30 +11,37 @@ This is a copy from the original post at my site (https://foo-dogsquared.github.
 - [Useful websites for programmers (by *sdmg15* on GitHub)](https://github.com/sdmg15/Best-websites-a-programmer-should-visit/) — also here's [an mirror article by *Sahil Rajput* on dev.to](https://dev.to/sahilrajput/useful-websites-for-programmers-36k#coding-practice-for-beginners)
 - [Web Dev't Study Resources (by *dargaCode* on GitHub)](https://github.com/dargaCode/WebDevStudyResources)
 
-## Online Education
+## Online Education Resources
 - [Adobe Education Exchange](https://edex.adobe.com/en/professional-development/courses) — free courses offered by Adobe and its community 
 - [Brilliant](https://brilliant.org) — kind of like those MOOC but they teach you through solving problems
 - [Codecademy](https://www.codecademy.com/)
+- [Community College Consortium for Open Educational Resources](https://www.cccoer.org/) — you can find it [here](https://www.cccoer.org/learn/find-oer/) for the most part if you want the open educational resources (OER)
 - [Coursera](https://coursera.org) — **(recommended)**
 - [CS50 Course by Harvard University](http://cs50.harvard.edu/) — **(very much recommended)**; a very good introductory course on computer science in general, just take it easy and follow the schedule then you'll be fine; I also recommend to take it with friends or a study group too, much easier unlike the way I took 😥, but still doable with solo
 - [edX](https://edx.org) — **(recommended)**
 - [fast.ai](http://www.fast.ai/) — free courses on machine learning, ooooh yeah
 - [freeCodeCamp](https://freecodecamp.org) — **(recommended)**; project-based curriculum for web development
+- [IXL](https://www.ixl.com/) — an educational resource and learning site on K-12 curriculum
 - [Khan Academy](https://khanacademy.org) — **(recommended)**; there are also other topics outside of programming (i.e. mathematics, physics)
+- [Learn X in Y Minutes](https://learnxinyminutes.com) — a community-created repository of summaries for you to learn the X programming languages
 - [LinkedIn Learning](https://learning.linkedin.com/) — eLearning platform of LinkedIn
 - [Microsoft Virtual Academy](https://mva.microsoft.com/) — yup, Microsoft has their own learning platform 
 - [MIT OpenCourseWare](https://ocw.mit.edu/index.htm) — **(recommended)**; contains courses from a lot of subjects; you also might want to check out their [OCW Scholar Courses](https://ocw.mit.edu/courses/ocw-scholar/) wherein they are essentially more in-depth versions of the usual courses
 - [MongoDB University](https://university.mongodb.com/) — official courses from MongoDB
-- [The Odin Project](https://www.theodinproject.com/) — similar approach to freeCodeCamp
 - [Online Stanford Courses](https://online.stanford.edu/courses)
+- [Open Educational Resources](https://www.oercommons.org/) — self-explanatory as to what their content is about
 - [Open Yale Courses](https://oyc.yale.edu/courses)
 - [Scrimba](https://scrimba.com/) — **(recommended)**; videos with interactive code
+- [Siyavula](https://everythingmaths.co.za/) — mathematics- and science-focused open educational resources
 - [SkillShare](https://www.skillshare.com/) — almost like Udemy, almost like Udemy
+- [Teach Engineering](https://www.teachengineering.org/) — well, it's a educational resources site containing engineering stuff
+- [The Odin Project](https://www.theodinproject.com/) — similar approach to freeCodeCamp
 - [Tutorials Point](https://www.tutorialspoint.com/index.htm) — **(recommended)**; a good overview on a bunch of programming languages
 - [TutPlus](https://tutsplus.com/) — a bunch of tutorials and courses
 - [Udacity](https://www.udacity.com/) —most, if not all courses are focused on technology
 - [Udemy](https://udemy.com) — HINT: they are discounted for almost all-year round; I also recommend to only look out for the top courses since there's a lot of cluttering stuff in there
 - [W3Schools](https://www.w3schools.com/)
+- [Wolfram MathWorld](http://mathworld.wolfram.com/)
 
 ## Academics-focused Sites
 - [Academia.edu](https://www.academia.edu/)
@@ -55,12 +62,17 @@ This is a copy from the original post at my site (https://foo-dogsquared.github.
 - [Free Programming Books](https://github.com/EbookFoundation/free-programming-books) — **(recommended)**; a GitHub repo by the E-Book Foundation
 - [Free Science Books](https://github.com/EbookFoundation/free-science-books) — another GitHub repo by the E-Book Foundation
 - [Green Tea Press](https://greenteapress.com/wp/) — free computer science-related ebooks
+- [How to Design Programs, 2nd Edition (HTML version)](https://htdp.org/)
+- [Introduction to Embedded Systems, 2nd Edition (2017, Lee and Seshia)](https://ptolemy.berkeley.edu/books/leeseshia/download.html)
 - [Math Wiki](https://math.wikia.com/wiki/Math_Wiki) — well, it is structured like a textbook and it is said that the Math Wiki is a textbook so there's that
+- [MIT Press Open](https://mitpress.mit.edu/mit-press-open) — yes, free and open access books from MIT Press
 - [Notes for Professionals](http://book.goalkicker.com/) — **(very much recommended)**; made by folks at Stack Overflow from the Stack Overflow documentation for variety of languages and despite the title, it is quite helpful for beginners like me, as well; also, it is frequently updated like once per week
 - [OpenStax](https://openstax.org/) — **(very much recommended in sciences)**; a library of open-licensed expert-curated college textbook and resources
 - [OpenStax CNX](https://cnx.org/) — a database of open educational resources
+- [Open Library](https://openlibrary.org/)
 - [Open Textbook Library](https://open.umn.edu/opentextbooks) — **(recommended)**; same as OpenStax
 - [Open SUNY Textbooks](https://textbooks.opensuny.org/)
+- [Scientific Programming and Computer Architecture](https://divakarvi.github.io/bk-spca/spca.html)
 - [Structure and Interpretation of Computer Programs, 2nd Edition (HTML version)](https://sarabander.github.io/sicp/) — unofficial (and prettier) version of [one of MIT's famous programming book (that can also be found online)](https://mitpress.mit.edu/sites/default/files/sicp/index.html)
 - [The Feynman's Lectures on Physics](http://www.feynmanlectures.caltech.edu/)
 - [WikiToLearn](https://www.wikitolearn.org/)
@@ -81,6 +93,7 @@ This is a copy from the original post at my site (https://foo-dogsquared.github.
 - [GeeksforGeeks](https://www.geeksforgeeks.org/) — **(recommended)**; a computer science portal (for geeks)
 - [Medium](https://medium.com/)
 - [Preadr](https://preadr.com/) — an article link collector collecting articles related to your configured interests
+- [Scratch A Pixel](http://scratchapixel.com/) — a list of articles on computer graphics
 - [Wikipedia](https://www.wikipedia.org/) — if you want to learn random things
 
 ## Communities
@@ -109,17 +122,21 @@ This is a copy from the original post at my site (https://foo-dogsquared.github.
 stuff and I really like psychological stuff so that's why it's here
 
 ## Blogs
+- ### Learning
+    - [Cal Newport](https://calnewport.com/)
+    - [College Info Geek](https://collegeinfogeek.com/) 
+    - [Scott Young](https://scotthyoung.com/) — a blog that mainly focuses on learning
 - ### Programming
     - [Coding Horror](https://blog.codinghorror.com/)
     - [CSS Tricks](https://css-tricks.com/) — a blog that focuses on front-end development
     - [Derek Sivers](https://sivers.org/) — a blog from a guy who had a lot of things to say on a lot of topics
     - [Flavio Copes](https://flaviocopes.com/) — another blog that focuses on front-end development
+    - [Jeremy Kun](https://jeremykun.com/) — a programmer with a focus on mathematics
     - [Joel On Software](https://www.joelonsoftware.com) — a software-related blog from Joel Spolsky, the CEO from Stack Overflow 
     - [Jon Skeet's Coding Blog](https://codeblog.jonskeet.uk/) — Jon Skeet's blog; \* insert Jon Skeet fact here \*
     - [Joshua Pullen](https://joshuapullen.com/blog/)
     - [Mozilla Hacks](http://hacks.mozilla.org/) — mainly focuses on web development progress
     - [Scott Logic](https://blog.scottlogic.com/) — it's a blog that focuses on a broad spectrum of stuff
-    - [Scott Young](https://scotthyoung.com/) — a blog that mainly focuses on learning
     - [webapplog](https://webapplog.com/) — mainly focuses on Node.js
     - [Wes Bos](https://wesbos.com/blog/) — creator of several courses and some helpful posts along the way
 
@@ -130,6 +147,7 @@ stuff and I really like psychological stuff so that's why it's here
 - [Node Weekly](http://nodeweekly.com/)
 - [Official Node.js Weekly Newsletter](https://newsletter.nodejs.org/)
 - [Postanly](https://postanly.ongoodbits.com/) — a weekly digest of productivity life articles
+- [Pycoders Weekly](https://pycoders.com/) — a weekly newsletter on Python
 
 ## YouTube Channel
 - [Crash Course](https://www.youtube.com/user/crashcourse/) — **(recommended)**; a YouTube channel that specializes in introducing you to a lot of concepts and subjects such as computers, sciences, and computer science
@@ -146,6 +164,7 @@ stuff and I really like psychological stuff so that's why it's here
 - [patrickJMT](https://www.youtube.com/channel/UCFe6jenM1Bc54qtBsIJGRZQ) — focuses on mathematics so if you want to learn math through YouTube, here is one channel that specializes on it
 - [Professor Leonard](https://www.youtube.com/channel/UCoHhuummRZaIVX7bD4t2czg) — a YouTube channel that focuses on giving topics on calculus 
 - [The Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw)
+- [Vsauce](https://www.youtube.com/user/Vsauce) — need to say more?
 - [Wes Bos](https://www.youtube.com/channel/UCoebwHSTvwalADTJhps0emA)
 
 ## Operating Systems (yes, some of them are free)
@@ -247,10 +266,12 @@ stuff and I really like psychological stuff so that's why it's here
 - [Local Hackday MLH (Major League Hacking)](https://localhackday.mlh.io/) — it's a global hackathon (that are related to MLH) finder 
 - [MOOC List](https://www.mooc-list.com/) — similar to Class Central
 - [Open Culture](http://www.openculture.com/) — a site that provides open content and resources
-- [Open Educational Resources](https://www.oercommons.org/) — self-explanatory as to what their content is about
+- [Open Source](https://opensource.com/) — a site that talks all open source things
 
 **\*** - *if you're on a Windows OS, probably you're locked out of the option to download the ISO
 directly, to download it directly, you have to change the user profile from your browser
 usually, you can do that by going into 'Responsive Design Mode' (Ctrl + Shift + M) on Firefox (or 
 anything similar to Chrome and other browsers) and choosing a non-Windows device (choose an Apple product for easy 
 choices) and you shall see that the page will reload and the layout will change* OR you can just download a browser extension to change your User Agent
+
+-----
